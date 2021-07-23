@@ -15,7 +15,8 @@ public class SelectTest12 {
 		ResultSet rs=null;
 		try {
 			//load JDBC driver class
-			Class.forName("com.mysql.cj.jdbc.Driver");
+
+
 			
 			//Establish the Conncetion
 			con=DriverManager.getConnection("jdbc:mysql://localhost:3306/db_ed", "root","system");

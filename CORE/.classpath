@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="D:/devlopment kit/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="D:/devlopment kit/commons-io-2.10.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/ADMIN/Downloads/postgresql-42.2.22 (1).jar"/>
+	<classpathentry kind="lib" path="C:/IDSServer/classes"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
